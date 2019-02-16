@@ -1,2 +1,4 @@
-# cti110
-CTI110 Repository Spring 2019
+# CTI 110 Repository
+Created for P2LAB1
+Aaliyah Hubbard
+02162019
